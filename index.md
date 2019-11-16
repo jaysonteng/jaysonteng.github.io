@@ -1,16 +1,16 @@
 # 欢迎来到我的主页
 ![picture](./homepage_portrait.jpg)
 ## 个人简介
-姓名：邓老师
-性别：男
-年龄：28
-爱好：唱歌，旅游，英语
+姓名：邓老师<br/>
+性别：男<br/>
+年龄：28<br/>
+爱好：唱歌，旅游，英语<br/>
 职业：it小菜，数据分析师，python语言
 
 ## 学习笔记
-1、anaconda
-2、mysql
-3、linux
+1、anaconda<br/>
+2、mysql<br/>
+3、linux<br/>
 
 ## 清华博士媳妇儿
 
