@@ -1,5 +1,5 @@
 # 欢迎来到我的主页
-![picture](https://github.com/jaysonteng/jaysonteng.github.io/blob/master/picture%20(1).jpg)
+![picture](/picture (1).jpg)
 ## 个人简介
 
 
