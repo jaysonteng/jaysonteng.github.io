@@ -1,3 +1,3 @@
-## [1、annaconda的安装(Windows)](./annaconda的安装(Windows).md)
+## [1、annaconda的安装(Windows)](./annaconda的安装(Windows))
 ## [2、annaconda的安装(Linux)](https://jaysonteng.github.io/annaconda/annaconda的安装(Linux).html)
 ## [3、annconda常用命令](https://jaysonteng.github.io/annaconda/annaconda常用命令.html)
