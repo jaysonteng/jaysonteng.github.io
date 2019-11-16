@@ -7,4 +7,4 @@
 
 
 ## 清华博士媳妇儿
-[媳妇儿的日常](/媳妇儿专属/20191116周六日常.md)
+[媳妇儿的日常](https://jaysonteng.github.io/tingyibaby/)
