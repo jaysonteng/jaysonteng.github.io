@@ -8,7 +8,7 @@
 职业：IT小菜，数据分析师，python语言
 
 ## 学习笔记
-1、anaconda<br/>
+1、[anaconda](./annaconda)<br/>
 2、mysql<br/>
 3、linux<br/>
 4、github<br/>
