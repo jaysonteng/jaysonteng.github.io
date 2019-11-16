@@ -3,7 +3,7 @@
 # Site settings
 title: My Blog                      # 你博客的标题
 SEOTitle: 我的博客 | My Blog           # 显示在浏览器上搜索的时候显示的标题
-header-img: img/post-bg-rwd.jpg    # 显示在首页的背景图片
+# header-img: img/post-bg-rwd.jpg    # 显示在首页的背景图片
 email: You@gmail.com               # 个人邮箱
 description: "You Blog"          # 网站介绍
 keyword: "Will Wang, Will Wang Blog, 王志彪的博客, flyingwzb, 王志彪, Java, golang" #关键词
@@ -16,7 +16,7 @@ baseurl: ""                         # 这个我们不用填写
 # Sidebar settings
 sidebar: true                           # 是否开启侧边栏.
 sidebar-about-description: "侧边栏个人描述"
-sidebar-avatar:/img/avatar-by.JPG      # 你的个人头像
+# sidebar-avatar:/img/avatar-by.JPG      # 你的个人头像
 ```
 #### 社交账号
 展示你的其他社交平台
