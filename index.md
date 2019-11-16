@@ -6,5 +6,6 @@
 ## 学习笔记
 
 
-## 清华博士媳妇儿
+## [清华博士媳妇儿](https://jaysonteng.github.io/vantyii)
+
 [媳妇儿的日常](https://jaysonteng.github.io/vantyii)
