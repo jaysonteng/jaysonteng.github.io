@@ -1,13 +1,4 @@
-## Welcome to JaysonTeng Pages
-
-我爱王葶亦
-
-### Markdown
-
-
-
-# Header 1
-## Header 2
-### Header 3
-
-我爱王葶亦
+## 欢迎来到邓治鑫的博客主页
+### 我要宣布两件事情
+1、我爱王葶亦
+2、我爱王葶亦
