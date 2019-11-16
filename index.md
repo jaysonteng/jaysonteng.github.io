@@ -8,7 +8,7 @@
 职业：IT小菜，数据分析师，python语言
 
 ## 学习笔记
-1、[anaconda](jaysonteng.github.io/annaconda/annaconda的安装.md)<br/>
+1、[anaconda](https://jaysonteng.github.io/annaconda/annaconda的安装.html)<br/>
 2、mysql<br/>
 3、linux<br/>
 4、github<br/>
