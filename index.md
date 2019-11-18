@@ -1,4 +1,6 @@
-<font color=#87CEFA size=7 face="黑体">欢迎来到我的主页</font>
+欢迎来到我的主页
+---------------
+
 ![picture](./homepage_portrait.jpg)
 ## 个人简介
 姓名：邓老师<br/>
