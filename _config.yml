@@ -9,3 +9,5 @@ title: 欢迎来到我的博客
 <h1 style="font-family:verdana;color:green;font-size:20px;">欢迎来到我的博客</h1>
 </body>
 </html>
+
+theme: jekyll-theme-cayman
