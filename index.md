@@ -12,7 +12,7 @@
 
 ## 学习笔记
 1、[anaconda](https://jaysonteng.github.io/learning_notes/annaconda/index.html)<br/>
-2、mysql<br/>
+2、[mysql](./learning_notes/mysql/index)<br/>
 3、linux<br/>
 4、github<br/>
 5、报错记录<br/>
