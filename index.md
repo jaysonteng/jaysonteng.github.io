@@ -8,7 +8,12 @@
 性别：男<br/>
 年龄：28<br/>
 爱好：唱歌，旅游，英语<br/>
-职业：IT小菜，数据分析师，python语言
+职业：IT小菜，数据分析师，python，人工智能<br/>
+
+## 关于转行<br/>
+1、我的转行经历<br/>
+2、[参考网站](http://www.bjsxt.com/xiulian.html)<br/>
+
 
 ## 学习笔记
 1、[anaconda](https://jaysonteng.github.io/learning_notes/annaconda/index.html)<br/>
