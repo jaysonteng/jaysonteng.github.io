@@ -3,4 +3,4 @@ vim ~/.gitconfig
 
 2、将下面内容添加到文件最后:<br/>
 [credential]<br/>
-	helper = store
+&emsp;&emsp;helper = store
