@@ -10,7 +10,7 @@ mysql -u root -p<br/>
 ![图片2](./picture2.png)
 
 3.依次执行如下命令：<br/>
-use mysq;<br/>
+use mysql;<br/>
 select host from user where user='root';<br/>
 可以看到当前主机配置信息为localhost.<br/>
 ![图片3](./picture3.png)
