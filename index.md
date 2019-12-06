@@ -2,6 +2,7 @@
 ---------------
 
 [网页优化模板测试](./moban4148/index.html)
+[test2](test.md)
 ![picture](./homepage_portrait.jpg)
 ## 个人简介
 姓名：邓老师<br/>
