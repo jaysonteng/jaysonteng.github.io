@@ -1,7 +1,7 @@
 欢迎来到我的主页
 ---------------
 
-[网页优化模板测试](./test/html_test)<br/>
+[网页优化模板测试](./test/html_test.html)<br/>
 ![picture](./homepage_portrait.jpg)
 ## 个人简介
 姓名：邓老师<br/>
