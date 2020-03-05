@@ -609,7 +609,7 @@ span.border.one:after {
 .wthree_about_right_grids {
      margin-top: 4em;
 }
-#services {
+#skills {
     padding: 5em 0;
     background: #1b242f;
 }
@@ -1305,7 +1305,7 @@ span.border.two:after {
 		float: right;
 		padding: 0.7em 2em 2em 2em;
 	}
-	#work,.blog,#services {
+	#work,.blog,#skills {
 		padding: 3em 0;
 	}
 	#port {
@@ -1655,7 +1655,7 @@ span.border.two:after {
 	h4.timeline-title {
       font-size: 1em;
 	}
-	#work, .blog, #services {
+	#work, .blog, #skills {
 		padding: 2em 0;
 	}
 	.service-head h3 {
@@ -1964,7 +1964,7 @@ span.border.two:after {
 		width:80%;
 		margin-top: 8px;
 	}
-	#work, .blog, #services {
+	#work, .blog, #skills {
     padding: 1.2em 0;
 	}
 	span.border, span.border.one {
