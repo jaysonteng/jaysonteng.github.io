@@ -860,12 +860,12 @@ ul.year li:nth-child(5){
 	padding:3.5em 0;
 }
 /*-- feedback --*/
-.feedback{
+/*.feedback{
 	background: url(../images/feedback-bg.jpg) no-repeat 0px 0px;
 	background-size: cover;
 	min-height: 300px;
 	padding: 6em 0 0 0;
-}
+}*/
 .feedback-grid p{
 	color: #FFf;
 	font-size: 1.2em;
@@ -1029,8 +1029,8 @@ div#portfolioModal1,div#portfolioModal2,div#portfolioModal3,div#portfolioModal4,
     position: absolute;
     top: 25px;
     right: 25px;
-   width: 45px;
-    height: 45px
+    width: 45px;
+    height: 45px;
     background-color: transparent;
     cursor: pointer;
     z-index: 1;
