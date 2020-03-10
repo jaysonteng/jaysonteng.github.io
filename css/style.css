@@ -4,6 +4,9 @@ Author URL: http://w3layouts.com
 License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
+.blog-title{
+    font-size: medium;
+}
 html, body{
     font-family: 'Open Sans', sans-serif;
     font-size: 100%;
@@ -299,7 +302,7 @@ background-position: 3px -94px;
     font-size: 0.9em;
     line-height: 1.9em;
     margin: 1em 0 2em 0;
-    color: #777;
+    color: #777;  /*blog正文字体颜色*/
 }
 .news-text h3  a,ul.news li:hover  i{
 	 color:#00a78e;

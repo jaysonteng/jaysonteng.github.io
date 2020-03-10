@@ -1,0 +1,115 @@
+.header{
+    height: 120px;
+    width: 1046px;
+    margin: 0 auto;
+}
+/*.header_right{
+    float: right;
+    line-height: 120px;
+
+}
+.header_right img{
+    width: 300px;
+    height: 100px;
+}*/
+.header_left{
+    float: left;
+    height: 150px;
+    position: relative;
+}
+.header_left>div{
+    position: absolute;
+    top: 0;
+    right: 0;
+
+}
+.header_left ul{
+    margin-top: 88px;
+
+}
+.header_left ul a li{
+    border-right: 1px solid #00a78e;  /*标题栏字体左边框颜色*/
+    height: 13px;
+    font-size: 15px;
+    padding: 0 25px;
+    font-weight: bold;
+    color: #00a78e;  /*标题栏字体颜色*/
+
+}
+.header_left ul a{
+    float: left;
+    line-height: 13px;
+}
+/*.header_right ul a li:hover{
+    color: #000000;
+}*/
+.header_left ul a:last-child li{/*去掉最后的边框*/
+    border: none;
+}
+.show_list{
+    position: relative;
+}
+.show_list .move_list{
+    display: none;
+    z-index: 103;
+    position: absolute;
+    top: -56px;
+    left: 0;
+    width: 100%;
+    background: #00a78e;  /*下拉菜单背景颜色*/
+    text-align: center;
+}
+.show_list .move_list li{
+    padding: 10px 0;
+    width: 114px;
+    color: #fff;  /*下拉菜单字体颜色*/
+}
+.header_left ul a .show_list{
+    padding-bottom: 20px;
+    border-right: none;
+}
+.show_list:hover .move_list{
+    display: block;
+}
+/*.header_right ul a:nth-child(3){
+    border-left: 1px solid #000;
+}*/
+.show_list .move_list li:hover{
+    color: white;
+    background: orange;
+}
+
+
+* {
+    margin: 0;
+    padding: 0
+}
+em,i {
+    font-style: normal
+}
+li {
+    list-style: none
+}
+a{
+    font: 14px/24px Microsoft YaHei,Arial,\\5B8B\4F53,Arial Narrow;
+    letter-spacing: 1.2px;
+    color: #666;
+    text-decoration: none
+}
+
+a:hover {
+    color: #c81623 ;
+}
+
+img {
+    border: 0;
+    vertical-align: middle
+}
+input{
+    outline: none;
+}
+button {
+    cursor: pointer;
+    border:none;
+    outline: none;
+}
