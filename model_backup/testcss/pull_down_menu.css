@@ -21,20 +21,18 @@
     position: absolute;
     top: 0;
     right: 0;
-
 }
 .header_left ul{
     margin-top: 88px;
 
 }
 .header_left ul a li{
-    border-right: 1px solid #00a78e;  /*标题栏字体左边框颜色*/
+    border-right: 1px solid #00a78e;  /*标题栏字体右边框颜色*/
     height: 13px;
     font-size: 15px;
     padding: 0 25px;
     font-weight: bold;
     color: #00a78e;  /*标题栏字体颜色*/
-
 }
 .header_left ul a{
     float: left;
